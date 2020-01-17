@@ -26,4 +26,5 @@ Sorting to be done for input of other datatypes (FLOATs, CHARs, STRINGs).
 
 # To compile the program
 make
+
 ./sort 
