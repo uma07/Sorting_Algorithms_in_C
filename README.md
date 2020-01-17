@@ -9,12 +9,19 @@ Whenever we want to sort it will copy from file to array, sort them and it will 
 
 # Sorting Algorithms Implemented
 1.Bubble sort
+
 2.Insertion sort
+
 3.Shell sort
+
 4.Selection sort
+
 5.Quick sort
+
 6.Merge sort
+
 7.Radix sort
+
 8.Heap sort
 
 # Limitations
